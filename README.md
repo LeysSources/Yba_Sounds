@@ -13,7 +13,7 @@ Code is fairly self explanatory so you should be able to tweak it yourself I use
 
 Have fun use this however you'd like but if you edit the code and make a better working version just be sure to credit me!
 
-You can find some cool voice lines to use from these playlists (not mine): 
+You can find some cool voice lines from Hansy_boi on youtube: 
 
 https://www.youtube.com/watch?v=vMVZb5U_iSk&list=PLxL8HQhuHbFS8cBDC1PFzVoK7TDJqnW7T&index=5
 
